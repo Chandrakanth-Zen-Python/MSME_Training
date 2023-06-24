@@ -1,0 +1,40 @@
+09:32:19 From  jitesh agrawal  to  MSME Trainer(Direct Message):
+	I couldn’t get your name
+10:23:48 From  BHARATHRAM  to  Everyone:
+	WslRegisterDistribution failed with error: 0x8007019e
+10:37:38 From  Senthil Velan  to  Everyone:
+	WslRegisterDistribution failed with error: 0x800701bc	Error: 0x800701bc WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel
+10:50:32 From  Senthil Velan  to  Everyone:
+	WslRegisterDistribution failed with error: 0x800701bc	Error: 0x800701bc WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel
+10:50:56 From  Sam Joe Silvano  to  Everyone:
+	WslRegisterDistribution failed with error: 0x800701bc	Error: 0x800701bc WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel
+11:31:38 From  MSME Trainer  to  Everyone:
+	sudo apt-get update
+11:47:38 From  Murugaperumal Ramaiyan  to  Everyone:
+	https://support.apple.com/en-ae/guide/mac-help/mh11848/mac
+11:56:29 From  MSME Trainer  to  Everyone:
+	type "env" in search bar	Click "Environment Variables"	Click "Edit Environmental Variables"	Select "Path" from variables	Click New and paste the path that you have copied.	Click "OK"
+11:56:40 From  MSME Trainer  to  Everyone:
+	Restart your machine
+12:05:11 From  jitesh  to  MSME Trainer(Direct Message):
+	once you join back
+12:05:13 From  jitesh  to  MSME Trainer(Direct Message):
+	pls see
+12:05:21 From  jitesh  to  MSME Trainer(Direct Message):
+	there is some problem
+12:07:34 From  Threase  to  Everyone:
+	No audio
+12:30:19 From  MAGESH MANI  to  MSME Trainer(Direct Message):
+	I don't have (Magesh)
+12:41:51 From  MSME Trainer  to  Everyone:
+	https://github.com/Chandrakanth-Zen-Python/MSME_Training.git
+12:54:27 From  MSME Trainer  to  Everyone:
+	sudo mkdir MSME_Training
+13:00:41 From  MSME Trainer  to  Everyone:
+	https://github.com/Chandrakanth-Zen-Python/MSME_Training.git
+13:02:53 From  MSME Trainer  to  Everyone:
+	sudo chown bharathram MSME_Python
+13:06:45 From  MSME Trainer  to  Everyone:
+	sudo mkdir <<folder>>
+13:31:44 From  MSME Trainer  to  Everyone:
+	https://github.com/Chandrakanth-Zen-Python/MSME_Training.git
