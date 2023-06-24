@@ -1,0 +1,50 @@
+MSME TRAINING- Python With SQL And No-SQL 
+
+
+I) Week 1
+
+   Day-1 Installation & Setup
+
+   1) Python Installation
+   2) Jupyter Notebook Setup
+   3) VS-code Installation
+   3) Github Setup
+
+   Day-2 Python-Part1
+
+   1) Datatypes
+   2) Datastructures
+   3) Loops
+   4) Loop Statements
+
+II) Week 2
+
+   Day-3 Python-Part2
+   
+   1) Functions
+   2) Classes
+   3) Exception Handling
+   4) Decorators
+
+   Day-4 Python-Part3
+   
+   1) Importing Libraries
+   2) Pandas Dataframe
+   3) Pandas Columnwise operations
+   4) Mini Project
+
+III) Week 3
+
+    Day-5 SQL- PostgreSQL
+    
+    1) Setting Up Database
+    2) Basic SQL commands
+    3) Runniing commands with integrated IDE
+    4) Running commands with Python IDE
+
+    Day-6 No-SQL MongoDB
+    
+    1) Setting Up Cloud Database.
+    2) Interacting with database from mongodb-compass
+    3) Interacting with database using pymongo
+
