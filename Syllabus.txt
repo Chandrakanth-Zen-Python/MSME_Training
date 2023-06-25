@@ -39,7 +39,7 @@ III) Week 3
     
     1) Setting Up Database
     2) Basic SQL commands
-    3) Runniing commands with integrated IDE
+    3) Running commands with integrated IDE
     4) Running commands with Python IDE
 
     Day-6 No-SQL MongoDB
